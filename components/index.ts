@@ -1,0 +1,9 @@
+export {default as Header} from './Header';
+export {default as Footer} from './Footer';
+export {default as PostList} from './PostList';
+export {default as SideBar} from './SideBar';
+export {default as PostDetailForm} from './PostDetailForm';
+export {default as PostDetailSidebar} from './PostDetailSidebar';
+export {default as PostDetailContent} from './PostDetailContent';
+export {default as UserDetailInfo} from './UserDetailInfo';
+export {default as UserDetailPosts} from './UserDetailPosts';
